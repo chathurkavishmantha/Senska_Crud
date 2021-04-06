@@ -5,21 +5,12 @@
 <!-- Navigation -->
 
 <!-- Page Content -->
-<div class="container">
+<div class="center_body">
 
   <div class="row">
-
-    <div class="col-lg-3">
-      <div class="list-group">
-        <a href="/category_1_women_product" class="list-group-item">Office Ware</a>
-        <a href="#" class="list-group-item">Category 2</a>
-        <a href="#" class="list-group-item">Category 3</a>
-      </div>
-
-    </div>
     <!-- /.col-lg-3 -->
 
-    <div class="col-lg-9">
+    <div class="col-lg-8">
 
       <div id="carouselExampleIndicators" class="carousel slide my-4" data-ride="carousel">
         <ol class="carousel-indicators">
@@ -52,7 +43,7 @@
 
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="assets/img/home/w1.jpg" alt=""></a>
+            <a href="#"><img class="card-img-top" src="assets/img/home/ww1.jpeg" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
                 <a href="#">Item One</a>
@@ -68,7 +59,7 @@
 
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="assets/img/home/w2.jpg" alt=""></a>
+            <a href="#"><img class="card-img-top" src="assets/img/home/ww2.jpeg" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
                 <a href="#">Item Two</a>
@@ -84,7 +75,7 @@
 
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="assets/img/home/w3.jpg" alt=""></a>
+            <a href="#"><img class="card-img-top" src="assets/img/home/ww3.jpeg" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
                 <a href="#">Item Three</a>
@@ -100,7 +91,7 @@
 
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="assets/img/home/w4.jpg" alt=""></a>
+            <a href="#"><img class="card-img-top" src="assets/img/home/ww4.jpeg" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
                 <a href="#">Item Four</a>
@@ -116,7 +107,7 @@
 
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="assets/img/home/w5.jpg" alt=""></a>
+            <a href="#"><img class="card-img-top" src="assets/img/home/ww5.jpeg" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
                 <a href="#">Item Five</a>
@@ -132,7 +123,7 @@
 
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="assets/img/home/w6.jpg" alt=""></a>
+            <a href="#"><img class="card-img-top" src="assets/img/home/ww6.jpeg" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
                 <a href="#">Item Six</a>

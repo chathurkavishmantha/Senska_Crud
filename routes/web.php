@@ -51,6 +51,10 @@ Route::get('/edit_product/{id}', function () {
     return view('products.edit_product');
 });
 
+Route::get('/category_1_women_product', function () {
+    return view('products.category_1_women_product');
+});
+
 
 
 
